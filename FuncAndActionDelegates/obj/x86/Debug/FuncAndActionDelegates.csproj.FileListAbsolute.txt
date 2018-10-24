@@ -1,0 +1,6 @@
+E:\Programming Practice\CSharp\Console\Chapter10\FuncAndActionDelegates\FuncAndActionDelegates\bin\Debug\FuncAndActionDelegates.exe
+E:\Programming Practice\CSharp\Console\Chapter10\FuncAndActionDelegates\FuncAndActionDelegates\bin\Debug\FuncAndActionDelegates.pdb
+E:\Programming Practice\CSharp\Console\Chapter10\FuncAndActionDelegates\FuncAndActionDelegates\obj\x86\Debug\FuncAndActionDelegates.exe
+E:\Programming Practice\CSharp\Console\Chapter10\FuncAndActionDelegates\FuncAndActionDelegates\obj\x86\Debug\FuncAndActionDelegates.pdb
+C:\Abhishek\SampleProjects\FuncAndActionDelegates\FuncAndActionDelegates\obj\x86\Debug\FuncAndActionDelegates.exe
+C:\Abhishek\SampleProjects\FuncAndActionDelegates\FuncAndActionDelegates\obj\x86\Debug\FuncAndActionDelegates.pdb
